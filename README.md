@@ -6,6 +6,8 @@ PromPress is a [Prometheus](https://prometheus.io/) client as a WordPress Plugin
 
 This is still in very early development and as such is unlikely feature complete and will contain bugs. I will create releases once it is ready for general use.
 
+I have attempted to comply with the [guidelines](https://prometheus.io/docs/instrumenting/writing_clientlibs/) where possible, please open a ticket to discuss issues.
+
 # License
 
 This is licensed under [MIT](https://github.com/PeterBooker/wp-prompress/blob/master/LICENSE).
